@@ -10,7 +10,7 @@ step 1:
 step 2:
   Allow Instalations without windows defender by disabled real time protection and the 2 underneath it.
 step 3: 
-  Run the Builder.
+  Run the Builder in administrator.
 step 4:
   Open the builder tab and select ur server and other information
 step 5:
